@@ -29,11 +29,4 @@ The formula used is:
       
         •	Granger causality with global indicators (VIX & SRISK)
 
-# Output
 
-# Tools & Libraries
-•	Python (Jupyter Notebook)
-
-•	Libraries - pandas / numpy / PyPDF2 / pdfplumber / matplotlib / seaborn / statsmodels / grangercausalitytests
-
-•	Excel
